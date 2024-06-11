@@ -21,5 +21,18 @@
 // "hitesh" => true
 
 let someNumber = "33"
-let stringNumber = String(someNumber)
-console.log(typeof stringNumber)
+// let stringNumber = String(someNumber)
+// console.log(typeof stringNumber)
+
+// -----Operations-----
+let str1 = "hello"
+let str2 = " Anjal"
+let str3 = str1 + str2
+
+console.log(str3);
+
+console.log("1" + 2);
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+
+console.log(+"")
